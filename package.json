@@ -1,0 +1,27 @@
+{
+  "name": "pumpfun_buy_sell_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0",
+    "@solana/spl-token": "^0.4.3",
+    "@solana/web3.js": "^1.91.8",
+    "@types/bs58": "^4.0.4",
+    "bn.js": "^5.2.1",
+    "bs58": "^5.0.0",
+    "minimist": "^1.2.8",
+    "prompts": "^2.4.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "@types/bn.js": "^5.1.5",
+    "@types/minimist": "^1.2.5",
+    "@types/prompts": "^2.4.9"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
